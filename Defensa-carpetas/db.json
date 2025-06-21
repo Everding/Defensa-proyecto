@@ -6,160 +6,167 @@
       "precio": 1500,
       "stock": 5,
       "categoria": "refrescos",
-      "sucursal":"Central"
+      "sucursal": "Central"
     },
     {
-    "id": 2,
-    "nombre": "Coca-Cola",
-    "precio": 1600,
-    "stock": 8,
-    "categoria": "refrescos",
-    "sucursal": "Norte"
-  },
-  {
-    "id": 3,
-    "nombre": "Sprite",
-    "precio": 1400,
-    "stock": 12,
-    "categoria": "refrescos",
-    "sucursal": "Sur"
-  },
-  {
-    "id": 4,
-    "nombre": "Fanta",
-    "precio": 1450,
-    "stock": 10,
-    "categoria": "refrescos",
-    "sucursal": "Oeste"
-  },
-  {
-    "id": 5,
-    "nombre": "Agua Mineral",
-    "precio": 800,
-    "stock": 20,
-    "categoria": "agua",
-    "sucursal": "Central"
-  },
-  {
-    "id": 6,
-    "nombre": "Cerveza Quilmes",
-    "precio": 1800,
-    "stock": 15,
-    "categoria": "alcohol",
-    "sucursal": "Este"
-  },
-  {
-    "id": 7,
-    "nombre": "Cerveza Brahma",
-    "precio": 1750,
-    "stock": 10,
-    "categoria": "alcohol",
-    "sucursal": "Norte"
-  },
-  {
-    "id": 8,
-    "nombre": "Jugo de Naranja",
-    "precio": 1300,
-    "stock": 13,
-    "categoria": "jugos",
-    "sucursal": "Sur"
-  },
-  {
-    "id": 9,
-    "nombre": "Jugo de Manzana",
-    "precio": 1350,
-    "stock": 11,
-    "categoria": "jugos",
-    "sucursal": "Oeste"
-  },
-  {
-    "id": 10,
-    "nombre": "Energizante Red Bull",
-    "precio": 2200,
-    "stock": 7,
-    "categoria": "energizantes",
-    "sucursal": "Central"
-  },
-  {
-    "id": 11,
-    "nombre": "Gatorade Naranja",
-    "precio": 1900,
-    "stock": 9,
-    "categoria": "deportivos",
-    "sucursal": "Norte"
-  },
-  {
-    "id": 12,
-    "nombre": "Gatorade Limón",
-    "precio": 1900,
-    "stock": 14,
-    "categoria": "deportivos",
-    "sucursal": "Este"
-  },
-  {
-    "id": 13,
-    "nombre": "Powerade Azul",
-    "precio": 1850,
-    "stock": 6,
-    "categoria": "deportivos",
-    "sucursal": "Oeste"
-  },
-  {
-    "id": 14,
-    "nombre": "Tónica Schweppes",
-    "precio": 1600,
-    "stock": 8,
-    "categoria": "refrescos",
-    "sucursal": "Central"
-  },
-  {
-    "id": 15,
-    "nombre": "Agua con gas",
-    "precio": 850,
-    "stock": 16,
-    "categoria": "agua",
-    "sucursal": "Norte"
-  },
-  {
-    "id": 16,
-    "nombre": "Fernet Branca",
-    "precio": 3500,
-    "stock": 5,
-    "categoria": "alcohol",
-    "sucursal": "Sur"
-  },
-  {
-    "id": 17,
-    "nombre": "Vodka Smirnoff",
-    "precio": 3200,
-    "stock": 4,
-    "categoria": "alcohol",
-    "sucursal": "Este"
-  },
-  {
-    "id": 18,
-    "nombre": "Café en lata",
-    "precio": 2000,
-    "stock": 9,
-    "categoria": "energizantes",
-    "sucursal": "Oeste"
-  },
-  {
-    "id": 19,
-    "nombre": "Limonada",
-    "precio": 1200,
-    "stock": 17,
-    "categoria": "jugos",
-    "sucursal": "Central"
-  },
-  {
-    "id": 20,
-    "nombre": "Agua saborizada",
-    "precio": 1100,
-    "stock": 18,
-    "categoria": "agua",
-    "sucursal": "Sur"
-  }
-    
+      "id": 2,
+      "nombre": "Coca-Cola",
+      "precio": 1600,
+      "stock": 8,
+      "categoria": "refrescos",
+      "sucursal": "Norte"
+    },
+    {
+      "id": 3,
+      "nombre": "Sprite",
+      "precio": 1400,
+      "stock": 12,
+      "categoria": "refrescos",
+      "sucursal": "Sur"
+    },
+    {
+      "id": 4,
+      "nombre": "Fanta",
+      "precio": 1450,
+      "stock": 10,
+      "categoria": "refrescos",
+      "sucursal": "Oeste"
+    },
+    {
+      "id": 5,
+      "nombre": "Agua Mineral",
+      "precio": 800,
+      "stock": 20,
+      "categoria": "agua",
+      "sucursal": "Central"
+    },
+    {
+      "id": 6,
+      "nombre": "Cerveza Quilmes",
+      "precio": 1800,
+      "stock": 15,
+      "categoria": "alcohol",
+      "sucursal": "Este"
+    },
+    {
+      "id": 7,
+      "nombre": "Cerveza Brahma",
+      "precio": 1750,
+      "stock": 10,
+      "categoria": "alcohol",
+      "sucursal": "Norte"
+    },
+    {
+      "id": 8,
+      "nombre": "Jugo de Naranja",
+      "precio": 1300,
+      "stock": 13,
+      "categoria": "jugos",
+      "sucursal": "Sur"
+    },
+    {
+      "id": 9,
+      "nombre": "Jugo de Manzana",
+      "precio": 1350,
+      "stock": 11,
+      "categoria": "jugos",
+      "sucursal": "Oeste"
+    },
+    {
+      "id": 10,
+      "nombre": "Energizante Red Bull",
+      "precio": 2200,
+      "stock": 7,
+      "categoria": "energizantes",
+      "sucursal": "Central"
+    },
+    {
+      "id": 11,
+      "nombre": "Gatorade Naranja",
+      "precio": 1900,
+      "stock": 9,
+      "categoria": "deportivos",
+      "sucursal": "Norte"
+    },
+    {
+      "id": 12,
+      "nombre": "Gatorade Limón",
+      "precio": 1900,
+      "stock": 14,
+      "categoria": "deportivos",
+      "sucursal": "Este"
+    },
+    {
+      "id": 13,
+      "nombre": "Powerade Azul",
+      "precio": 1850,
+      "stock": 6,
+      "categoria": "deportivos",
+      "sucursal": "Oeste"
+    },
+    {
+      "id": 14,
+      "nombre": "Tónica Schweppes",
+      "precio": 1600,
+      "stock": 8,
+      "categoria": "refrescos",
+      "sucursal": "Central"
+    },
+    {
+      "id": 15,
+      "nombre": "Agua con gas",
+      "precio": 850,
+      "stock": 16,
+      "categoria": "agua",
+      "sucursal": "Norte"
+    },
+    {
+      "id": 16,
+      "nombre": "Fernet Branca",
+      "precio": 3500,
+      "stock": 5,
+      "categoria": "alcohol",
+      "sucursal": "Sur"
+    },
+    {
+      "id": 17,
+      "nombre": "Vodka Smirnoff",
+      "precio": 3200,
+      "stock": 4,
+      "categoria": "alcohol",
+      "sucursal": "Este"
+    },
+    {
+      "id": 18,
+      "nombre": "Café en lata",
+      "precio": 2000,
+      "stock": 9,
+      "categoria": "energizantes",
+      "sucursal": "Oeste"
+    },
+    {
+      "id": 19,
+      "nombre": "Limonada",
+      "precio": 1200,
+      "stock": 17,
+      "categoria": "jugos",
+      "sucursal": "Central"
+    },
+    {
+      "id": 20,
+      "nombre": "Agua saborizada",
+      "precio": 1100,
+      "stock": 18,
+      "categoria": "agua",
+      "sucursal": "Sur"
+    },
+    {
+      "id": "4c25",
+      "nombre": "Inca-cola",
+      "precio": "1000",
+      "stock": "60",
+      "categoria": "refrescos",
+      "sucursal": "Central"
+    }
   ]
 }

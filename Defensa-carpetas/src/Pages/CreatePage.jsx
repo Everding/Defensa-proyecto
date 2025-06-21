@@ -1,13 +1,13 @@
 import React from 'react'
 import Header from '../components/Header'
-import EditTable from '../components/CRUD/EditTable'
+import ProductsTable from '../components/CRUD/ProductsTable'
 import Footer from '../components/Footer'
 
 const CreatePage = () => {
   return (
     <div>
         <Header/>
-        <EditTable/>
+        <ProductsTable/>
         <Footer/>
     </div>
   )
